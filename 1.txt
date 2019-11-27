@@ -1,0 +1,10 @@
+H
+
+nano 2.txt
+cd devops
+ello world
+
+nano 2.txt
+cd devops
+
+
